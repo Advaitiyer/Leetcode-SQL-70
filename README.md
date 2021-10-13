@@ -11,3 +11,4 @@
 | 7 | Product Sales Analysis I | [Solution](https://github.com/Advaitiyer/Leetcode-SQL-70/blob/main/solution07.sql) |
 | 8, 9 | Project Employees I & II | [Solution](https://github.com/Advaitiyer/Leetcode-SQL-70/blob/main/solution08_09.sql) |
 | 10, 11, 12 | Sales Analysis I, II, & III | [Solution](https://github.com/Advaitiyer/Leetcode-SQL-70/blob/main/solution10_11_12.sql) |
+| 13, 14 | Game Play Analysis I & II | [Solution](https://github.com/Advaitiyer/Leetcode-SQL-70/blob/main/solution13_14.sql) |
