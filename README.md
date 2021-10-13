@@ -1,4 +1,4 @@
-# Leetcode-SQL-70
+# Leetcode SQL 70 Questions
 
 | Sr No. | Problem | Link |
 |--------|---------|------|
