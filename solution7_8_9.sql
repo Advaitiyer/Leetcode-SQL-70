@@ -1,4 +1,4 @@
-/* Write an SQL query that reports the product_name, year, and price for each sale_id in the Sales table. 
+/*
 Input Table 1: Sales
 +-------------+-------+
 | Column Name | Type  |
@@ -22,6 +22,8 @@ Input Table 2:
 +--------------+---------+
 product_id is the primary key of this table.
 */
+
+/* Write an SQL query that reports the product_name, year, and price for each sale_id in the Sales table. */
 
 SELECT DISTINCT product_name, year,
 SUM(price) OVER(PARTITION BY sale_id, product_name, year) AS "price"
